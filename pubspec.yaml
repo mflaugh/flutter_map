@@ -17,7 +17,8 @@ dependencies:
   transparent_image: ^1.0.0
   async: ^2.1.0
   flutter_image: ^1.0.0
-  cached_network_image: ^0.8.0
+  cached_network_image:
+    git: https://github.com/mflaugh/flutter_cached_network_image.git
   sqflite: ^1.1.5
   path_provider: ^1.1.0
 
